@@ -1,2 +1,2 @@
-# blog.io
+# blog
 Mi blog
